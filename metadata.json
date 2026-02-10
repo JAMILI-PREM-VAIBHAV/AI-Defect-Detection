@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionQC: AI Manufacturing Inspector",
+  "description": "A professional quality control dashboard that uses Gemini AI Vision to detect manufacturing defects like scratches, misalignments, and color inconsistencies in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
